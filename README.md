@@ -8,4 +8,4 @@ I love creating things to solve problems, even if it's not necessarily data-rela
 </br>
 
 <!--<p align="center"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgrafton86&hide=mathematica"></p>-->
-<p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kgrafton86&count_private=true&show_icons=true&theme=tokyonight"> </p>
+<!--<p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kgrafton86&count_private=true&show_icons=true&theme=tokyonight"> </p>-->
