@@ -7,7 +7,7 @@ Hi! I’m a data tinkerer who loves the whole pipeline: scrape it, shape it, shi
 ENGAGE THESIS MODE. I’m researching hospital-acquired pneumonia and building an intervention to reduce its incidence. Give me anything on infectious diseases or rare diseases/conditions and I happily fall right down the research rabbit hole. Check out my presentation from the 2025 Wolfram Tech Conference on a part of my thesis project: [Natural Language Processing for Chest X-ray Findings](https://github.com/KGrafton86/NLP-chest-xray).
 
 ### DOGS!
-I love making practical things to solve problems, regardless of if they involve data. Check out my [Labrador Coat Colors Tool Prototype](https://github.com/KGrafton86/LabradorCoatColors) for an example. My currently-on-hold pet project (*pun intended*🐾) right now is turning this into a web application. 
+I love making practical things to solve problems, regardless of if they involve data. Check out my [Labrador Coat Colors Tool Prototype](https://github.com/KGrafton86/LabradorCoatColors) for an example. My currently-on-hold pet project (*pun intended*🐾) is turning this into a web application. 
 
 </br>
 
